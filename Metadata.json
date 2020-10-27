@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 21926,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hello-world-graphical-runbook/master/HelloWorld.graphrunbook",
+    "DownloadCount": 2050,
+    "Id": "Hello-World-Graphical-c8435465",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 34,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-5-20T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This Graphical runbook provides a \"Hello World\" example for Azure Automation. \u00a0If you are new to Azure Automation or to Graphical runbooks, you can use this runbook to see how a very simple Graphical runbook is constructed and also explore testing and publishing.",
+    "Title": "Hello World Graphical Runbook",
+    "UpdatedDate": "2016-5-20T00:00:00",
+    "Url": "https://github.com/azureautomation/hello-world-graphical-runbook",
+    "UserTags": "Azure Automation, GraphicalPS, Automation Tutorial"
+}
